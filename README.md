@@ -1,1 +1,1 @@
-# jsp_second_project
+# 한국정보교육원 2차 프로젝트
